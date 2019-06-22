@@ -1,0 +1,66 @@
+cd /home   //絕對
+cd home    //相對
+--------------
+https://www.youtube.com/watch?v=Ge4nLzitjLM
+文字輸出檔案與串連(echo, printf, cat)
+<br>
+printf "hello" >  hellow.txt   //>重 寫  <br>
+printf "hello" >>  hellow.txt   // >>繼續寫   <br>
+
+cat he.txt she.txt  //合併 <br>
+man cat // man 說明  <br>
+
+--------------------------- 6 vim編輯程式
+https://www.youtube.com/watch?v=SgBzf4kQW3g
+vim.tiny hello.txt 
+
+要做修改按: i
+
+儲存: esc(跳出)   後   :   後   w(寫) q(跳出)  or  q!(不存)
+
+w 保存文件,但不退出 w!
+
+----------------------------8
+[Ubuntu][教學] Linux基本指令#08
+https://www.youtube.com/watch?v=zUSM1Drh6vU
+  
+以vim 範例:
+vi  按兩下tab  // 查看有vi開的program
+
+whereis vim  //跳出都跟vim有關
+
+which vim // 不見得是exe
+
+ls -al /usr/bin/vim
+
+-------------------------7  安裝 移除
+套件管理程式 apt-get 
+要有套件列表概念 update
+
+sudo apt-get update
+
+sudo apt-get install vim  //安裝 
+
+sudo apt-get remove vim  //移除
+
+sudo apt-get autoremove vim  //連相依 移除 + auto
+
+--------------------9  寫系統檔
+https://www.youtube.com/watch?v=hfOvVaCv0oE
+首先安裝 vim : #7課
+
+cd /etc/apache2(網頁)/    // 以下皆有關系統
+
+sudo vim apache2.conf
+
+:set nu    //設定行號
+
+在根 ls -al看到:
+
+drwxr-r(讀)-x(執行) 
+
+下:
+vim envvars 
+
+
+
