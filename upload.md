@@ -2,12 +2,12 @@
 https://zlargon.gitbooks.io/git-tutorial/content/remote/sync.html
 
 
-git config --global user.email "yuchian.eo06g@g2.nctu.edu.tw"
-git config --global user.name "Yu-Chian-Lin"
-git add .
-git status
-git commit -m "modified"
-git push -u origin master
+git config --global user.email "yuchian.eo06g@g2.nctu.edu.tw"  <br>
+git config --global user.name "Yu-Chian-Lin" <br>
+git add . <br>
+git status <br>
+git commit -m "modified" <br>
+git push -u origin master <br>
 
 
 branch: 
@@ -21,16 +21,16 @@ git add .
 
 
 new push: 
-git init 
-git add .
-git commit -m "first commit"
-git remote add origin 
-git push -u origin master 
+git init  <br>
+git add . <br>
+git commit -m "first commit" <br>
+git remote add origin  <br>
+git push -u origin master  <br>
 
 
 ¥»¦a update :
-git fetch origin
-git reset --hard origin/master
+git fetch origin <br>
+git reset --hard origin/master <br>
 
 --------------------
 ¥É³Ó 
