@@ -1,5 +1,10 @@
 sudo 已獲得管理權限
 
+1. Linux Command 命令列指令與基本操作入門教學
+https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/?fbclid=IwAR3rcB7v66jRaBjsvidrQVwiC8ODT64Yczv2Hq_TE_9KMRv03MB66sctvpA
 
+2. [Ubuntu][架站][教學] 
+https://www.youtube.com/watch?v=hfOvVaCv0oE
 
 3. 切換python https://github.com/eagleon/eagleon.github.com/issues/2
+
