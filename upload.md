@@ -1,4 +1,4 @@
-±Ğ¾Ç 
+æ•™å­¸ 
 https://zlargon.gitbooks.io/git-tutorial/content/remote/sync.html
 
 
@@ -11,11 +11,11 @@ git push -u origin master <br>
 
 
 branch: 
-git branch  // ¬İ·í¤U¦³´X­Óbranch
+git branch  // çœ‹ç•¶ä¸‹æœ‰å¹¾å€‹branch
 
 git branch version2   // creat  version2
 
-git checkout version2   // ¤Á´« 
+git checkout version2   // åˆ‡æ› 
 
 git add .
 
@@ -28,13 +28,15 @@ git remote add origin  <br>
 git push -u origin master  <br>
 
 
-¥»¦a update :
+æœ¬åœ° update :
 git fetch origin <br>
 git reset --hard origin/master <br>
 
+æŠ“æª”æ¡ˆ:
+git pull <br>
 --------------------
-¥É³Ó 
+ç‰å‹ 
 https://github.com/nickandsam20/demo
 
-½d¨Ò  10 React Native Open-Source Projects You Must Know
+ç¯„ä¾‹  10 React Native Open-Source Projects You Must Know
 https://apiko.com/blog/10-react-native-open-source-projects-you-must-know/
