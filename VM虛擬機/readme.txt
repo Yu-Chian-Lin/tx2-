@@ -1,0 +1,1 @@
+vmware µêÀÀ¾÷ ¸jubuntu-18.04.2-desktop-amd64

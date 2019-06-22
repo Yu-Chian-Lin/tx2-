@@ -1,0 +1,41 @@
+官方教學 
+https://www.jetsonhacks.com/2019/06/04/nvidia-sdk-manager-for-jetson-jetpack-4-2/
+
+jetpack 4.1 版 
+https://github.com/wroosenburg/jetson-installer-docker
+
+常用 Ubuntu 指令
+https://blog.richliu.com/2017/04/01/2116/%E5%B8%B8%E7%94%A8-ubuntu-%E6%8C%87%E4%BB%A4
+
+手動閃光板
+cd /home/nick/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra 
+sudo ./flash.sh jetson-tx2 mmcblk0p1   
+
+
+
+Q: error probing the target board failed 
+
+
+
+https://devtalk.nvidia.com/default/topic/1029740/jetson-tx-2-fail-to-flash-ubuntu-16-jetpack-3-1-3-2/
+
+https://devtalk.nvidia.com/default/topic/1037452/jetson-tx2/jetson-tx2-recovery-error-after-updating-u-boot-probing-
+the-target-board-failed/
+
+
+2. 
+usb2.0 usb3.0 
+查看 lsusb -t 
+https://devtalk.nvidia.com/default/topic/1029740/jetson-tx2/jetson-tx-2-fail-to-flash-ubuntu-16-jetpack-3-1-3-2/2
+
+3. 
+https://devtalk.nvidia.com/default/topic/1051150/jetson-nano/problem-flashing-jetson-nano-jetpack-4-2/
+使用micro-SD 方式 
+
+4.
+舊版run jetpack 
+https://blog.csdn.net/learning_tortosie/article/details/79249018
+
+
+-------------------------
+sudo reboot 重新啟動

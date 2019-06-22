@@ -1,0 +1,5 @@
+sudo 已獲得管理權限
+
+
+
+3. 切換python https://github.com/eagleon/eagleon.github.com/issues/2
