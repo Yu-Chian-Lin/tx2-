@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=hfOvVaCv0oE
 
 3. ¤Á´«python https://github.com/eagleon/eagleon.github.com/issues/2
 
+4. tx2 usb¹q·½³]©w  
+https://developer.download.nvidia.com/assets/embedded/secure/jetson/TX2/docs/Tegra_Linux_Driver_Package_TX2_Adaptation_Guide.pdf?LCp5Uwy6mbwwLQwNyxbb4L4IRf2EFCwZD6TZXVGSH7BcXEaLtQfCEeonSGpJMjTch0_nGWq0bG1bag4_HsSM6Ev4i91zj_C8I8lnXfXdRamv9y75Q7RA8J-N8jb41PsPr5OA3dIAqc5lvwo9Qe5mRNrlJWmxsX_1d5gwNOI7mkJUjSwQtCeuz8Bp7IRX1JePHmICMaZCKw_5
