@@ -16,10 +16,10 @@ https://elinux.org/Jetson_TX2/FAQ#USB.2FPCIE.2FSATA_mapping_difference_between_J
 ------------------vbus線路說明--------------------
 file:///C:/Users/Linyuchian/Downloads/AN056_TW.pdf
 
------------如何開啟英偉達TX2的所有USB3.0口--------------
+-----------如何開啟英偉達TX2的所有USB3.0--------------
 https://blog.csdn.net/bhniunan/article/details/88605037
 
--------NVIDIA TX2自製底板的USB口無法使用的一種解決方法---------
+-------NVIDIA TX2自製底板的USB無法使用的一種解決方法---------
 https://blog.csdn.net/He110__W0r1d/article/details/86666152
 https://blog.csdn.net/bhniunan/article/details/80707569
 

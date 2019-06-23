@@ -1,5 +1,6 @@
 cd /home   //絕對
 cd home    //相對
+           // "./"表示的是當前文件夾
 --------------
 https://www.youtube.com/watch?v=Ge4nLzitjLM
 文字輸出檔案與串連(echo, printf, cat)
