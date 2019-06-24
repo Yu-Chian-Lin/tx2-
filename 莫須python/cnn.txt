@@ -23,12 +23,11 @@ def conv2d(x,W):
 def max_pool(x) : 
   return tf.nn.max_pool(x,ksize=[1,2,2,1],strides=[1,2,2,1],padding='SAME')
 
-神經層
+-------------------------神經層------------------------
 https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-05-CNN3/
 
-xs = tf.placeholder(tf.float32,[None, 784])
+xs = tf.placeholder(tf.float32,[None, 784])    //空
 x_image = tf.reshape(xs,[-1,28,28,1])    //[-1(samples),28,28,1(channal)]
-
 
 #conv1 
 
