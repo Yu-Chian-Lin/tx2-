@@ -1,0 +1,34 @@
+google cnn 交成
+https://classroom.udacity.com/loading
+
+patch 
+stride 
+
+valid padding vs same padding 
+
+pooling  
+-----------------
+CNN 交程  https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-04-CNN2/
+
+def weight_var(shape) : 
+  inital = tf.truncated_normal(shape, stdev=0.1)
+  return tf.Variable(inital)
+
+def bias_var(shape):
+  pass
+
+def conv2d(x,W):
+  return tf.nn.conv2d(x,W,strides=[1,x_move,y_move,1],padding='SAME' )  //
+  
+def max_pool(x) : 
+  return tf.nn.max_pool(x,ksize=[1,2,2,1],strides=[1,2,2,1],padding='SAME')
+
+神經層
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-05-CNN3/
+
+xs = tf.placeholder(tf.float32,[None, 784])
+x_image = tf.reshape(xs,[-1,28,28,1])    //[-1(samples),28,28,1(channal)]
+
+
+#conv1 
+
