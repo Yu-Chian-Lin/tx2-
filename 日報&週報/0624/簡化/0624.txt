@@ -1,0 +1,12 @@
+
+¤µ¤é¶µ¥Ø : 
+1.	¸Ñ¨Mtx2 USB±µ¤fµLªk¨Ï¥Î°ÝÃD¡A
+ƒÜ	­ì¦]¬°INA3221´¹¤ù°µ¤F¹q·½ºÊ±±¹q¸ô¡A¥u¦³½T«O5V¹q·½¹F¨ì­n¨Dªº±¡ªp¤U¤~¯à¨Ï¥ÎUSB¤f
+ƒÜ	¹Á¸Õ­×§ïtx2 os kernel¡A·í¤¤device tree¸Ìpinctrl@3520000¸`ÂI©w¸qªºUSB±µ¤Õ¹qÀ£vbus
+
+2.      ÂX¥Rtx2ª©¤WUSB¤Õ
+
+¹w­p¶µ¥Ø : 
+1.	§¹¦¨tx2Àô¹Ò°t¸m¡A´£¨Ñtx2µ¹¤u¬ã°|
+
+

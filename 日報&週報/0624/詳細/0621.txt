@@ -1,0 +1,32 @@
+
+在tx2上運行AlexNet & repo & 安裝DIGITS 可視化服務器
+
+首先cmake repo DIGITS
+
+
+
+ 
+加載圖像識別網絡  AlexNet 
+
+
+
+
+
+
+-----------------
+1.repo 
+repo 指報告
+repo旨在在Jetson上構建和運行，接受來自在DIGITS服務器上訓練的主機PC的網絡模型
+
+2.DIGITS 說明 
+https://blog.csdn.net/qq_28413479/article/details/73466366
+
+
+3. 切換python https://github.com/eagleon/eagleon.github.com/issues/2
+
+
+4. 問題要安裝python 64bit ?   
+
+
+5. 安裝build tensorflow  
+https://gist.github.com/vellamike/7c26158c93e89ef155c1cc953bbba956   

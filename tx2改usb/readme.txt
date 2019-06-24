@@ -27,7 +27,7 @@ vbus wiki  //提供電壓
 
 
 ---------------------------------
-com speed  baud rate
+com speed  baud rate  成大資工
 http://wiki.csie.ncku.edu.tw/embedded/USART
 
 
@@ -38,3 +38,8 @@ https://www.cnblogs.com/aaronLinux/p/5496559.html
 
 dtc指令參考
 https://read01.com/jP73MG.html#.XQ94ZugzY2w 
+
+
+-----------------------------
+auvidea官方修改tx2 成config 6
+https://auvidea.eu/search/firmware/
