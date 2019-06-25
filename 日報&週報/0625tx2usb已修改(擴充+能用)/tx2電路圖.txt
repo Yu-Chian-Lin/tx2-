@@ -1,0 +1,6 @@
+tx2電路
+https://developer.download.nvidia.com/assets/embedded/secure/jetson/TX2/docs/JetsonTX2_OEM_Product_DesignGuide.pdf?lLIQ4lZ_gG8wmikb8KSvvqEAjA1pTTsb5eU2FmJv2WBk3T42aOrMx3YIu6U6IVGkrWLr4iCPjNfSFQwVvJRhBFzsxJlpKJC5uJjsoxjUiCM25xG9IAC22y8V24TAZYkYbi2L0XMtf4M2HoAqTvphs29C7YiuUDNjq0SKi6-Cotg-f9FTsIoF3SUHQA
+
+tx2來自論壇 pg2
+
+https://devtalk.nvidia.com/default/topic/1002494/jetson-tx2/usb-lane-mapping/2

@@ -40,6 +40,12 @@ dtc指令參考
 https://read01.com/jP73MG.html#.XQ94ZugzY2w 
 
 
------------------------------
+-----------------------------   solution !
 auvidea官方修改tx2 成config 6
 https://auvidea.eu/search/firmware/
+
+
+------------------------------  solution !
+
+將xusb_padctl @ 3520000中將usb2-0的模式更改為“host”
+https://devtalk.nvidia.com/default/topic/1047678/jetson-agx-xavier/usb-does-not-working-on-jatson-agx-xavier-/3

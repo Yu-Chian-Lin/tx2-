@@ -1,0 +1,31 @@
+~/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/kernel/dt ¸ô®|
+
+sudo dtc -I dts -O dtb -o tegra186-quill-p3310-1000-c03-00-base.dtb extracted.dtsi  
+
+cp tegra186-quill-p3310-1000-c03-00-base.dtb ../../rootfs/boot/tegra186-quill-p3310-1000-c03-00-base.dtb 
+
+sudo cp tegra186-quill-p3310-1000-c03-00-base.dtb ../../bootloader/tegra186-quill-p3310-1000-c03-00-base.dtb
+
+
+cd ../..
+
+sudo ./flash.sh -r -k kernel-dtb jetson-tx2 mmcblk0p1
+
+
+
+
+phys = <0xa6>;
+pinctrl@3520000
+
+
+
+usb2-0 {
+						status = "okay";
+						#phy-cells = <0x0>;
+						nvidia,function = "xusb";
+						linux,phandle = <0xa6>;
+						phandle = <0xa6>;
+					};
+
+
+

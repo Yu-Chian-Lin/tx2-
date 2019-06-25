@@ -1,0 +1,11 @@
+
+¤µ¤é¶µ¥Ø : 
+1. ­×§ïtx2 USB port 0 ¨Ñµ¹¹q·½5V¥H¤W¡A
+ƒÜ ­×§ïdevice tree¡A±NUSB port 0 ¼Ò¦¡­×§ï¬°host¡A¥i¦¨¥\ÅX°ÊUSB¡A¸Ñ¨MUSBµLªk¨Ï¥Î°ÝÃD
+
+2. ®Ú¾Útx2¶}µo¤å¥ó¡A­×§ïdevice tree¡A¦¨¥\ÂX¥Rtx2ªO¤W2­ÓUSB¤Õ
+
+¹w­p¶µ¥Ø : 
+1. ¦btx2¤W¦w¸Ëtensorflow¡A§¹¦¨tx2Àô¹Ò°t¸m¡A´£¨Ñtx2µ¹¤u¬ã°|
+
+
