@@ -12,7 +12,8 @@ train_step = tf.train.GradientDescentOptimizer(0.5).minimize(cross_entropy)
 https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-02-dropout/
 overfit 問題 : 
 
-dropout 處裡overfitting
+dropout 處裡overfitting  // dropout node 複雜度下降
+
  
 
 
