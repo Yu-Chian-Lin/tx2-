@@ -1,0 +1,19 @@
+nn種類: https://buzzorange.com/techorange/2018/01/24/neural-networks-compare/
+
+
+GAN 對抗
+Generative adversarial network 
+
+https://www.youtube.com/watch?v=EEtf4kNsk7Q
+RNN 循環神經網絡
+Recurrent Neural Networks
+t1, t2 ,t3 ... 
+w , w , w   
+w<1 梯度消失   w > 1 梯度爆炸   //所以有LSTM
+
+https://www.youtube.com/watch?v=Vdg5zlZAXnU
+LSTM (長短期記憶) long short term memory
+3控制器  1.輸入x(重要性選擇)   2.忘記 (消除主線劇情 按比例替換成新劇情) 3.輸出 y
+
+
+遷移學習(Transfer Learning)
