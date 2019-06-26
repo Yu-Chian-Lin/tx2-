@@ -1,0 +1,4 @@
+https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
+
+0625
+¸Ë§¹ : tensorflow 1.13.1   nv 19.5

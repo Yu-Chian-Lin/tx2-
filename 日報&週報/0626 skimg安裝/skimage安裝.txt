@@ -1,0 +1,18 @@
+scikit image 安裝:
+sudo pip3 install scikit-image
+
+https://scikit-image.org/docs/dev/install.html
+
+https://scikit-image.org/docs/0.13.x/install.html
+
+錯誤 PyWavelet: 
+安裝PyWavelet
+http://zoomadmin.com/HowToInstall/UbuntuPackage/python3-pywt
+
+錯誤 scipy無法安裝: 
+https://stackoverflow.com/questions/26575587/cant-install-scipy-through-pip
+sudo apt-get install libatlas-base-dev gfortran   // 少此lib
+sudo pip3 install scipy
+
+---注意 
+用sudo atp-get install python3-包    // list 可裝dependent的包 ， pip3 install 不行
