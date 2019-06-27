@@ -13,8 +13,9 @@ https://elinux.org/Jetson/TX2_USB
 Jetson TX2/FAQ 官方
 https://elinux.org/Jetson_TX2/FAQ#USB.2FPCIE.2FSATA_mapping_difference_between_Jetson_TX1_and_Jetson_TX2
 
-------------------vbus線路說明--------------------
-file:///C:/Users/Linyuchian/Downloads/AN056_TW.pdf
+------------------vbus電路圖--------------------
+https://developer.download.nvidia.com/assets/embedded/secure/jetson/TX2/docs/JetsonTX2_OEM_Product_DesignGuide.pdf?lLIQ4lZ_gG8wmikb8KSvvqEAjA1pTTsb5eU2FmJv2WBk3T42aOrMx3YIu6U6IVGkrWLr4iCPjNfSFQwVvJRhBFzsxJlpKJC5uJjsoxjUiCM25xG9IAC22y8V24TAZYkYbi2L0XMtf4M2HoAqTvphs29C7YiuUDNjq0SKi6-Cotg-f9FTsIoF3SUHQA
+
 
 -----------如何開啟英偉達TX2的所有USB3.0--------------
 https://blog.csdn.net/bhniunan/article/details/88605037
